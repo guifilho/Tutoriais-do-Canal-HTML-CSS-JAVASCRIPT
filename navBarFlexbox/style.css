@@ -1,0 +1,107 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* normalize */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #42a6f6;
+    align-items: center;
+    margin: 2px;
+    border-radius: 4px;
+    padding: 12px 0;
+}
+
+.logo{
+    color: #fff;
+    margin: 0 16px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.logo .sua{
+    font-weight: 900;
+    margin-right: 2px;
+}
+
+.opcoes{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.opcoes li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 4px 16px;
+}
+.opcoes li a:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: #42a6f6;
+    text-decoration: underline;
+}
+
+.busca{
+    margin-right: 16px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 16px;
+    padding-left: 8px;
+}
+.busca:focus-within{
+    outline: 3px rgb(42, 98, 228) solid;
+}
+.busca input{
+    border: none;
+    padding: 8px 6px;
+    width: 256px;
+    border-radius: 0 16px 16px 0;
+}
+.busca input:focus{
+    outline: none;
+}
+.busca span{
+    color: rgb(95, 95, 95);
+}
+
+/* responsividade */
+@media only screen and (max-width: 860px) {
+    nav{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .opcoes{
+        margin: 24px 0;
+    }
+
+    .busca{
+        width: 40vh;
+        margin: 0 auto;
+    }
+
+    .busca input{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .opcoes{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .opcoes li{
+        padding: 6px 0;
+    }
+    .opcoes li a{
+        border: none;
+    }
+}
