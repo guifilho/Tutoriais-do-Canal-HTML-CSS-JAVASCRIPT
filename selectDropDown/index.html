@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Select DropDown</title>
+
+        <link rel="stylesheet" href="style.css">
+
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    </head>
+    <body>
+        <h1>Hard - Skills</h1>
+        <form class="dropdown">
+            <div class="conteiner-input-text">
+                <div class="logo"></div>
+                <input type="text" class="input-text" placeholder="Selecione a Tecnologia"></input>            
+                <ion-icon name="chevron-up-outline" class="icon-para-baixo" id="icon-seta"></ion-icon> 
+            </div>
+        </form>
+
+        <div class="options">
+            <div class="item-option" onclick="addOption('Html')">
+                <ion-icon name="logo-html5" class="html5-icon"></ion-icon>
+                <span class="option-text">Html</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('Css')">
+                <ion-icon name="logo-css3" class="css3-icon"></ion-icon>
+                <span class="option-text">Css</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('Javascript')">
+                <ion-icon name="logo-javascript" class="javascript-icon"></ion-icon>
+                <span class="option-text">JavaScript</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('Python')">
+                <ion-icon name="logo-python" class="python-icon"></ion-icon>
+                <span class="option-text">Python</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('Git')">
+                <ion-icon name="git-branch-outline" class="git-icon"></ion-icon>
+                <span class="option-text">Git</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('GitHub')">
+                <ion-icon name="logo-github" class="github-icon"></ion-icon>
+                <span class="option-text">GitHub</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('React.JS')">
+                <ion-icon name="logo-react" class="react-icon"></ion-icon>
+                <span class="option-text">React.JS</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('Wordpress')">
+                <ion-icon name="logo-wordpress" class="wordpress-icon"></ion-icon>
+                <span class="option-text">Wordpress</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('Linux')">
+                <ion-icon name="logo-tux" class="linux-icon"></ion-icon>
+                <span class="option-text">Linux</span>
+            </div>
+
+            <div class="item-option" onclick="addOption('Sass')">
+                <ion-icon name="logo-sass" class="sass-icon"></ion-icon>
+                <span class="option-text">Sass</span>
+            </div>
+        </div>
+  
+        <script src="script.js"></script>
+    </body>
+</html>

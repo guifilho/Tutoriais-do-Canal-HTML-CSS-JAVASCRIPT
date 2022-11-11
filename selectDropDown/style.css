@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: rgb(71, 146, 238);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: #fff;
+    font-size: 64px;
+    margin-top: 64px;
+}
+
+.dropdown{
+    margin-top: 80px;
+    box-shadow: 3px -2px 115px -27px rgba(0,0,0,0.63);
+}
+
+
+/* Input text item escolhido começo*/
+.logo ion-icon{
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+.conteiner-input-text{
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 40px;   
+    padding: 4px 16px;
+    border-radius: 4px;
+}
+.conteiner-input-text input{
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0);
+    padding-left: 8px;
+}
+.conteiner-input-text input:focus{
+    outline: none;
+}
+.conteiner-input-text:focus-within{
+    outline: 1px solid;
+}
+
+.icon-para-baixo{
+    transform: rotate(0);
+}
+.icon-para-cima{
+    transform: rotate(180deg);
+}
+/* Input text item escolhido fim*/
+
+
+/* Opcoes começo */
+.options{
+    display: none;
+}
+.options-revelar{
+    background-color: #fff;
+    margin-top: 8px;
+    padding: 8px 0;
+    border-radius: 4px;
+    width: 300px;
+    display: block;
+    box-shadow: 16px 7px 45px 3px rgba(0,0,0,0.14);
+}
+
+.item-option{
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    padding: 8px 0 8px 16px;
+}
+.item-option ion-icon{
+    padding-right: 8px;
+    font-size: 24px;
+}
+.item-option:hover{
+    background-color: rgb(224, 220, 220);
+    cursor: pointer;
+}
+/* Opcoes fim */
+
+
+/* variaveis cores icones */
+:root{
+    --color-html: #ed731b;
+    --color-css: #056ac8;
+    --color-js: #e2c013;
+    --color-python: #08b6b6;
+    --color-git: #ec750e;
+    --color-github: #1e1d1d;
+    --color-react: #10cfb5;
+    --color-wordpress: #0b669e;
+    --color-linux: #000;
+    --color-sass: #f605c2;
+}
+
+.html5-icon{color: var(--color-html);}
+.css3-icon{color: var(--color-css)}
+.javascript-icon{color: var(--color-js)}
+.python-icon{color: var(--color-python)}
+.git-icon{color: var(--color-git)}
+.github-icon{color: var(--color-github)}
+.react-icon{color: var(--color-react)}
+.wordpress-icon{color: var(--color-wordpress)}
+.linux-icon{color: var(--color-linux)}
+.sass-icon{color: var(--color-sass)}
