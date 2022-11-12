@@ -8,8 +8,9 @@
 }
 
 body{
-    background: rgb(71, 146, 238);
+    background-color: rgb(71, 146, 238);
     display: flex;
+    justify-content: center;
     flex-direction: column;
     align-items: center;
 }
@@ -19,45 +20,39 @@ h1{
     margin-top: 64px;
 }
 
-.dropdown{
+/* Input text item escolhido */
+.dropdown-input{
     margin-top: 80px;
-    box-shadow: 3px -2px 115px -27px rgba(0,0,0,0.63);
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    padding: 4px 16px;
+    border-radius: 4px;
+}
+.dropdown-input input{
+    width: 100%;
+    border: none;
+    padding-left: 8px;
+    font-size: 16px;
+}
+.dropdown-input input:focus{
+    outline: none;
+}
+.dropdown-input:focus-within{
+    outline: 1px solid;
 }
 
-
-/* Input text item escolhido começo*/
 .logo ion-icon{
     font-size: 24px;
     vertical-align: middle;
 }
 
-.conteiner-input-text{
-    background-color: #ffffff;
-    display: flex;
-    align-items: center;
-    width: 300px;
-    height: 40px;   
-    padding: 4px 16px;
-    border-radius: 4px;
-}
-.conteiner-input-text input{
-    width: 100%;
-    border: none;
-    font-size: 16px;
-    background-color: rgba(255, 255, 255, 0);
-    padding-left: 8px;
-}
-.conteiner-input-text input:focus{
-    outline: none;
-}
-.conteiner-input-text:focus-within{
-    outline: 1px solid;
-}
-
-.icon-para-baixo{
+.icon-para-cima{
     transform: rotate(0);
 }
-.icon-para-cima{
+.icon-para-baixo{
     transform: rotate(180deg);
 }
 /* Input text item escolhido fim*/
@@ -67,34 +62,29 @@ h1{
 .options{
     display: none;
 }
-.options-revelar{
+.revelar-opcoes{
     background-color: #fff;
     margin-top: 8px;
-    padding: 8px 0;
-    border-radius: 4px;
     width: 300px;
+    border-radius: 4px;
+    box-shadow: 16px 7px 45px 3px rgb(0,0,0,0.14);
     display: block;
-    box-shadow: 16px 7px 45px 3px rgba(0,0,0,0.14);
 }
-
 .item-option{
     font-size: 16px;
+    padding: 8px 0 8px 16px;
     display: flex;
     align-items: center;
-    padding: 8px 0 8px 16px;
-}
-.item-option ion-icon{
-    padding-right: 8px;
-    font-size: 24px;
 }
 .item-option:hover{
     background-color: rgb(224, 220, 220);
     cursor: pointer;
 }
-/* Opcoes fim */
+.item-option ion-icon{
+    padding-right: 8px;
+    font-size: 24px;
+}
 
-
-/* variaveis cores icones */
 :root{
     --color-html: #ed731b;
     --color-css: #056ac8;
@@ -107,14 +97,13 @@ h1{
     --color-linux: #000;
     --color-sass: #f605c2;
 }
-
-.html5-icon{color: var(--color-html);}
-.css3-icon{color: var(--color-css)}
-.javascript-icon{color: var(--color-js)}
-.python-icon{color: var(--color-python)}
-.git-icon{color: var(--color-git)}
-.github-icon{color: var(--color-github)}
-.react-icon{color: var(--color-react)}
-.wordpress-icon{color: var(--color-wordpress)}
-.linux-icon{color: var(--color-linux)}
-.sass-icon{color: var(--color-sass)}
+.logo-html{color: var(--color-html);}
+.logo-css{color: var(--color-css);}
+.logo-js{color: var(--color-js);}
+.logo-python{color: var(--color-python);}
+.logo-git{color: var(--color-git);}
+.logo-github{color: var(--color-github);}
+.logo-react{color: var(--color-react);}
+.logo-wordpress{color: var(--color-wordpress);}
+.logo-linux{color: var(--color-linux);}
+.logo-sass{color: var(--color-sass);}
