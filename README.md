@@ -1,2 +1,2 @@
-# Canal-erro404-Tutoriais-Html-Css
- Armazenar Os Tutoriais De HTML E CSS
+# Tutoriais do Canal - HTML CSS JAVASCRIPT
+ Armazenar Os Tutoriais De HTML CSS e JAVASCRIPT apenas
