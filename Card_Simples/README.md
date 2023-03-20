@@ -15,6 +15,9 @@
   <img src="https://i.ytimg.com/vi/usIYMt8v2Uc/hq720.jpg" width="100%">
 </p>
 
+## https://icons8.com.br/icon/DYuG8jKiYeUD/neural-connections Habilidades Aprendidas
+ - Como fazer Um Border com gradiente em CSS 
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
