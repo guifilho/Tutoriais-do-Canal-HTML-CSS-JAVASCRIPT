@@ -33,57 +33,36 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944">Card Simples </a></td>
             <td align="center">
-              <a target="_blank" href="https://www.youtube.com/watch?v=usIYMt8v2Uc&t=375s">
-               <img width="300px" src="https://i.ytimg.com/vi/usIYMt8v2Uc/mqdefault.jpg" />
+                <a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944">Card Simples</a>
+            </td>
+            <td align="center">
+              <a href="https://www.youtube.com/watch?v=usIYMt8v2Uc&t=375s">
+               <img width="356px" src="https://i.ytimg.com/vi/usIYMt8v2Uc/hq720.jpg" />
               </a>
             </td>
         </tr>
         <tr>
             <td>02</td>
-            <td><a href="02">Product Card</a></td>
-            <td align="center"><a href="02"><img width="300px" src="02/.github/preview.jpg" /></a></td>
+            <td align="center">
+                <a href="https://gist.github.com/guimonteirozz/d100806656d22234e44930f9720dc2ef">DropDown</a>
+            </td>
+            <td align="center">
+              <a href="https://www.youtube.com/watch?v=kAR4xPNzMrw">
+               <img width="356px" src="https://i.ytimg.com/vi/kAR4xPNzMrw/hq720.jpg" />
+              </a>
+            </td>
         </tr>
         <tr>
             <td>03</td>
-            <td><a href="03">Botões e Cursores</a></td>
-            <td align="center"><a href="03"><img width="300px" src="03/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>04</td>
-            <td><a href="04">Chat</a></td>
-            <td align="center"><a href="04"><img width="300px" src="04/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>05</td>
-            <td><a href="05">Calculadora</a></td>
-            <td align="center"><a href="05"><img width="300px" src="05/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>06</td>
-            <td><a href="06">Cartão de embarque</a></td>
-            <td align="center" ><a href="06"><img width="300px" src="06/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>07</td>
-            <td><a href="07">Site para encontrar seu bloco no carnaval</a></td>
-            <td align="center" ><a href="07"><img width="300px" src="07/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>08</td>
-            <td><a href="08">Dashboard</a></td>
-            <td align="center" ><a href="08"><img width="300px" src="08/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>09</td>
-            <td><a href="09">Conversor de moedas</a></td>
-            <td align="center" ><a href="09"><img width="300px" src="09/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td><a href="10">Uma página de clima</a></td>
-            <td align="center" ><a href="10"><img width="300px" src="10/.github/preview.jpg" /></a></td>
+            <td align="center">
+                <a href="https://gist.github.com/guimonteirozz/1ab8526c997bd6f603bad0806af501a6">Side Bar DarkMode</a>
+            </td>
+            <td align="center">
+              <a href="https://www.youtube.com/watch?v=LHchyPnlrKw">
+               <img width="356px" src="https://i.ytimg.com/vi/LHchyPnlrKw/hq720.jpg" />
+              </a>
+            </td>
         </tr>
     </tbody>
 </table></p>
