@@ -1,8 +1,8 @@
-# #Front nd Vanilla
+# #Front-End Vanilla
 
 <p align="center">
     Projetos Html Css JavaScript <br>
-    <a href="https://www.youtube.com/playlist?list=PLxno3IRycTKFQLIZTVDJ9N4bMyNoae16j">Acesse a Playlist clicando aqui</a><br>
+    <a target="_blank" href="https://www.youtube.com/playlist?list=PLxno3IRycTKFQLIZTVDJ9N4bMyNoae16j" >Acesse a Playlist clicando aqui</a><br>
     <br><table>
     <thead>
         <tr>
@@ -35,7 +35,7 @@
             <td>01</td>
             <td><a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944">Card Simples </a></td>
             <td align="center">
-              <a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944">
+              <a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944" target="_blank">
                <img width="300px" src="https://i.ytimg.com/vi/usIYMt8v2Uc/mqdefault.jpg" />
               </a>
             </td>
