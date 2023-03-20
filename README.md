@@ -35,7 +35,7 @@
             <td>01</td>
             <td><a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944">Card Simples </a></td>
             <td align="center">
-              <a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944" target="_blank">
+              <a target="_blank" href="https://www.youtube.com/watch?v=usIYMt8v2Uc&t=375s">
                <img width="300px" src="https://i.ytimg.com/vi/usIYMt8v2Uc/mqdefault.jpg" />
               </a>
             </td>
