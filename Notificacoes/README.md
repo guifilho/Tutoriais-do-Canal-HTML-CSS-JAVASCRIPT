@@ -1,4 +1,4 @@
-<h1 align="center"> Drop Drag (Arrasta e Solta) </h1>
+<h1 align="center"> Gerador de Notificações </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/rDSbsK2bTD8/hq720.jpg" width="100%">
+  <img src="https://i.ytimg.com/vi/XvRLBksHYpY/hq720.jpg" width="100%">
 </p>
 
 
