@@ -81,8 +81,8 @@
                 <a href="https://github.com/guimonteirozz/Tutoriais-do-Canal-HTML-CSS-JAVASCRIPT/tree/main/Lista_Drag_Drop">Lista de Arrasta e Solta</a>
             </td>
             <td align="center">
-              <a href="https://i.ytimg.com/vi/rDSbsK2bTD8/hq720.jpg">
-               <img width="356px" src="https://i.ytimg.com/vi//hq720.jpg" />
+              <a href="https://youtu.be/rDSbsK2bTD8?si=jP84aHpP3W7cobDT">
+               <img width="356px" src="https://i.ytimg.com/vi/rDSbsK2bTD8/hq720.jpg" />
               </a>
             </td>
         </tr>
