@@ -16,7 +16,7 @@
                 <img width="300" height="1"> 
                 <p> 
                     <small>
-                        PROJECT CODE SNIPPET
+                        PROJECT CODE
                     </small>
                 </p>
             </th>      
@@ -34,7 +34,7 @@
         <tr>
             <td>01</td>
             <td align="center">
-                <a href="https://gist.github.com/guimonteirozz/a28f551fb40d82a1d50db6d833c34944">Card Simples</a>
+                <a href="https://github.com/guimonteirozz/Tutoriais-do-Canal-HTML-CSS-JAVASCRIPT/tree/main/Card_Simples">Card Simples</a>
             </td>
             <td align="center">
               <a href="https://www.youtube.com/watch?v=usIYMt8v2Uc&t=375s">
@@ -45,7 +45,7 @@
         <tr>
             <td>02</td>
             <td align="center">
-                <a href="https://gist.github.com/guimonteirozz/d100806656d22234e44930f9720dc2ef">DropDown</a>
+                <a href="https://github.com/guimonteirozz/Tutoriais-do-Canal-HTML-CSS-JAVASCRIPT/tree/main/Select_Drop_Down">DropDown</a>
             </td>
             <td align="center">
               <a href="https://www.youtube.com/watch?v=kAR4xPNzMrw">
@@ -56,11 +56,33 @@
         <tr>
             <td>03</td>
             <td align="center">
-                <a href="https://gist.github.com/guimonteirozz/1ab8526c997bd6f603bad0806af501a6">Side Bar DarkMode</a>
+                <a href="https://github.com/guimonteirozz/Tutoriais-do-Canal-HTML-CSS-JAVASCRIPT/tree/main/Side_Bar_With_DarkMode">Side Bar DarkMode</a>
             </td>
             <td align="center">
               <a href="https://www.youtube.com/watch?v=LHchyPnlrKw">
                <img width="356px" src="https://i.ytimg.com/vi/LHchyPnlrKw/hq720.jpg" />
+              </a>
+            </td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td align="center">
+                <a href="https://github.com/guimonteirozz/Tutoriais-do-Canal-HTML-CSS-JAVASCRIPT/tree/main/Notificacoes">Gerador de Notificações</a>
+            </td>
+            <td align="center">
+              <a href="https://youtu.be/XvRLBksHYpY?si=k5RSIT1TUU7gOW-i">
+               <img width="356px" src="https://i.ytimg.com/vi/XvRLBksHYpY/hq720.jpg" />
+              </a>
+            </td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td align="center">
+                <a href="https://github.com/guimonteirozz/Tutoriais-do-Canal-HTML-CSS-JAVASCRIPT/tree/main/Lista_Drag_Drop">Lista de Arrasta e Solta</a>
+            </td>
+            <td align="center">
+              <a href="https://i.ytimg.com/vi/rDSbsK2bTD8/hq720.jpg">
+               <img width="356px" src="https://i.ytimg.com/vi//hq720.jpg" />
               </a>
             </td>
         </tr>
