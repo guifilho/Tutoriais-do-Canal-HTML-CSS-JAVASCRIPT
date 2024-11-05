@@ -78,9 +78,9 @@
         <tr>
             <td>05</td>
             <td align="center">
-                <code>
+                <span>
                     git clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git
-                </code>
+                </span>
             </td>
             <td align="center">
               <a href="https://youtu.be/rDSbsK2bTD8?si=jP84aHpP3W7cobDT">
