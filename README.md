@@ -1,5 +1,8 @@
 # #Front-End Vanilla
-
+## Clonar Projeto
+```bash
+git clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git
+```
 <p align="center">
     Projetos Html Css JavaScript <br>
     <a target="_blank" href="https://www.youtube.com/playlist?list=PLxno3IRycTKFQLIZTVDJ9N4bMyNoae16j" >Acesse a Playlist clicando aqui</a><br>
@@ -78,10 +81,7 @@
         <tr>
             <td>05</td>
             <td align="center">
-## Clonar Projeto
-```bash
-git clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git
-```
+    
             </td>
             <td align="center">
               <a href="https://youtu.be/rDSbsK2bTD8?si=jP84aHpP3W7cobDT">
