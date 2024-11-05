@@ -79,7 +79,7 @@
             <td>05</td>
             <td align="center">
                 <span>
-                    git clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git
+                    <code>git clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git</code>
                 </span>
             </td>
             <td align="center">
