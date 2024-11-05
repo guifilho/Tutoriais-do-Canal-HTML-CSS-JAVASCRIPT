@@ -78,7 +78,10 @@
         <tr>
             <td>05</td>
             <td align="center">
-                <a href="https://github.com/guimonteirozz/Tutoriais-do-Canal-HTML-CSS-JAVASCRIPT/tree/main/Lista_Drag_Drop">Lista de Arrasta e Solta</a>
+                ## Clonar Projeto
+                ```bash
+                  git clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git
+                ```
             </td>
             <td align="center">
               <a href="https://youtu.be/rDSbsK2bTD8?si=jP84aHpP3W7cobDT">
