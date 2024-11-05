@@ -1,6 +1,8 @@
 # Front-End Vanilla (Básico)
 Este repositório contém links de mini-projetos e tutoriais de **HTML, CSS e JavaScript** do meu canal no YouTube, focados em ensinar conceitos básicos de forma prática. Usei o **GitHub Gist** para facilitar o acesso e o download de cada projeto individual, tornando o aprendizado mais rápido e acessível para todos.
 
+> **Aviso:** O GitHub Gist é destinado apenas ao armazenamento de código. Não é possível armazenar arquivos como imagens ou outros tipos de arquivos. Se você precisar de imagens ou outros conteúdos, será necessário adicioná-los manualmente.
+
 ## 🚀 Tecnologias
 Esses projetos foram desenvolvidos com as seguintes tecnologias:
 
