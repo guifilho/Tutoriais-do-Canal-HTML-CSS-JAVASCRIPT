@@ -9,9 +9,9 @@ Esses projetos foram desenvolvidos com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-|Projeto (Video)                                                 |GitHub Gist                                                                 |Clonar                                                                        |
-|----------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|[Card Simples](https://youtu.be/usIYMt8v2Uc?si=mZSsowER-V4cqqeG)|[snippet code](https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git)|``` bash<br>git clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git<br>```|
+|Projeto (Video)                                                 |GitHub Gist                                                                 |Clonar                                                                         |
+|----------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|[Card Simples](https://youtu.be/usIYMt8v2Uc?si=mZSsowER-V4cqqeG)|[snippet code](https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git)|``` bgit clone https://gist.github.com/53d79d6bd741cb99106c8f5dc4256d6e.git ```|
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT.
